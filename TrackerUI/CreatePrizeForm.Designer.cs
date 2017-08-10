@@ -106,7 +106,6 @@
             this.prizeAmountLabel.Size = new System.Drawing.Size(176, 37);
             this.prizeAmountLabel.TabIndex = 26;
             this.prizeAmountLabel.Text = "Prize Amount";
-            this.prizeAmountLabel.Click += new System.EventHandler(this.label2_Click);
             // 
             // prizePercentageValue
             // 
@@ -125,7 +124,6 @@
             this.prizePercentageLabel.Size = new System.Drawing.Size(213, 37);
             this.prizePercentageLabel.TabIndex = 28;
             this.prizePercentageLabel.Text = "Prize Percentage";
-            this.prizePercentageLabel.Click += new System.EventHandler(this.label3_Click);
             // 
             // orLabel
             // 

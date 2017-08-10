@@ -35,6 +35,6 @@ namespace TrackerLibrary
         /// <summary>
         /// Represents embedded lists of all the brackets in the tournament
         /// </summary>
-        public List<List<MatchupModel>> Rounds { get; set; } = new List<List<MatchupModel>>()
+        public List<List<MatchupModel>> Rounds { get; set; } = new List<List<MatchupModel>>();
     }
 }
